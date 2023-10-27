@@ -1,5 +1,3 @@
-# hfSeries
-
 # HuggingFace Project Showcase
 
 Welcome to the HuggingFace Project Showcase! 🤗
@@ -12,9 +10,9 @@ This project is all about exploring the exciting world of Hugging Face, where we
 
 ## What's Inside?
 
-- **NLP Magic**: In this project, ill delve into the fascinating world of Natural Language Processing. Expect to find stunning applications like text generation, sentiment analysis, and question-answering systems.
+- **NLP Magic**: In this project, i'll delve into the fascinating world of Natural Language Processing. Expect to find stunning applications like text generation, sentiment analysis, and question-answering systems.
 
-- **Visual Wonders**: ill try to explore the world of computer vision, where we work on image classification, object detection, and image generation.
+- **Visual Wonders**: i'll try to explore the world of computer vision, where we work on image classification, object detection, and image generation.
 
 - **Aural Adventures**: Sound is also a part of our journey. i'll be actively exploring audio-based tasks like speech recognition and voice synthesis.
 
