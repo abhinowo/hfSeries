@@ -22,7 +22,7 @@ This project is all about exploring the exciting world of Hugging Face, where we
 
 ## A Note on Display
 
-We believe that learning and creating should be enjoyable. Therefore, you'll find our README to be welcoming, not overly formal. My primary aim is to foster a sense of curiosity and collaboration.
+I believe that learning and creating should be enjoyable. Therefore, you'll find that my primary aim is to foster a sense of curiosity and collaboration.
 
 ## Let's Create Together
 
